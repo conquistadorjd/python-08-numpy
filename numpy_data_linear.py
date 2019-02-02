@@ -22,6 +22,7 @@ print('y',y, type(y[0]))
 plt.scatter(x,y,s=None, marker='o',color='g',edgecolors='g',alpha=0.9,label="Linear Relation")
 plt.grid(color='black', linestyle='--', linewidth=0.5,markevery=int)
 plt.legend(loc=2)
+plt.axis('scaled')
 
 plt.show()
 
