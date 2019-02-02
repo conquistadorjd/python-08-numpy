@@ -25,6 +25,6 @@ plt.legend(loc=2)
 
 plt.show()
 
-plt.savefig('scarrerplot-01.png')
+plt.savefig('numpy_data_linear.jpeg')
 
 print('*** Program ended ***')
